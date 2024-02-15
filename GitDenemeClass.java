@@ -14,6 +14,7 @@ public class GitDenemeClass {
             System.out.println("Merhaba");
 
         }
+        System.out.println("Merhaba 6");
 
     }
 
