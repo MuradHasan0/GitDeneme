@@ -5,7 +5,10 @@ public class GitDenemeClass {
 
         System.out.println("Merhaba123");
 
-        System.out.println("Dunya");
+        for (int i = 0; i < 4; i++) {
+            System.out.println("merhaba 5");
+
+        }
 
         for (int i = 0; i < 5; i++) {
             System.out.println("Merhaba");
