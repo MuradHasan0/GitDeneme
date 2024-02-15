@@ -7,6 +7,7 @@ public class GitDenemeClass {
 
         System.out.println("Dunya");
 
+        System.out.println("Merhaba333");
 
     }
 
